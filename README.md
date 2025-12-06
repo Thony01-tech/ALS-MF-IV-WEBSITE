@@ -1,2 +1,2 @@
-# ALS-MF-IV-WEBSITE
-This website is Sample
+# ALSWebsite
+A Website for ALS
